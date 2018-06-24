@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1446058045 source:/home/mike/Desktop/Demos/Data Structures/double_linked_list/main.cpp
+	<iostream>
+	<string>
+

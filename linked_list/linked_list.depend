@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1444892582 source:/home/mike/Desktop/linked_list/main.cpp
+	<iostream>
+	<string>
+
+1446057339 source:/home/mike/Desktop/Demos/Data Structures/linked_list/main.cpp
+	<iostream>
+	<string>
+
